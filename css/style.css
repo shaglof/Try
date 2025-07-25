@@ -16,8 +16,11 @@ body {
 .link {
     color: #007bff;
     text-decoration: none;
+    display: inline-block;
+    padding: 10px;
 }
 
 .link:hover {
-    color: #0056b3;
+    color: #fdfdfd;
+    background-color: #0056b3;
 }
